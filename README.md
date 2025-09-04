@@ -3,7 +3,7 @@ My Kaggle competition work (Rank 135/ NMAE Score 0.20551 ) — Trojan Horse Hunt
 # 🚀 Kaggle: Trojan Horse Hunt in Space — Working Repo
 
 **Competition**: [Trojan Horse Hunt in Space](https://www.kaggle.com/competitions/trojan-horse-hunt-in-space/overview)  
-**Author**: Bhavana PAtil  
+**Author**: Bhavana Patil  
 **Rank**: 135  
 **Last updated**: 2025-09-04 03:57:25
 
